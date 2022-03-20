@@ -1,0 +1,21 @@
+{
+  "name": "universal-language",
+  "version": "0.0.2",
+  "description": "Universal language selection system, you can use it in console, meaby express, discord bot, anything that uses strings!",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morvicek/discord.js-language.git"
+  },
+  "keywords": [
+    "discord", "discord.js", "language", "language", "addon", "djs-addon", "universal", "language"
+  ],
+  "bugs": {
+    "url": "https://github.com/Morvicek/discord.js-language/issues"
+  },
+  "author": "Morvicek / https://github.com/Morvicek",
+  "license": "ISC"
+}
